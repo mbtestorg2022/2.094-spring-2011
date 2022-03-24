@@ -28,7 +28,7 @@ SIMULATIONS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Loading a rubber-like material (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit2_094s11_demo_1))
+Loading a rubber-like material ([PDF]({{< baseurl >}}/resources/mit2_094s11_demo_1))
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -58,7 +58,7 @@ Solution to example 4.6 - see textbook, p. 170 and 179
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Convergence: plate with a hole (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit2_094s11_demo3))
+Convergence: plate with a hole ([PDF]({{< baseurl >}}/resources/mit2_094s11_demo3))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -70,7 +70,7 @@ Convergence: plate with a hole (![This resource may not render correctly in a sc
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Various problems (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit2_094s11_demo4))
+Various problems ([PDF]({{< baseurl >}}/resources/mit2_094s11_demo4))
 {{< tdclose >}}
 {{< tdopen >}}
 
