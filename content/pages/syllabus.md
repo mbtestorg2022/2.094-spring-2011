@@ -76,6 +76,6 @@ You will not be required to develop a computer program. However, some homework w
 Additional Resources
 --------------------
 
-Prof. Bathe has recorded two video courses on the topics of [Linear Analysis](/resources/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/linear) and [Nonlinear Analysis](/resources/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/nonlinear), now available from MIT OpenCourseWare. While these lectures do not correspond directly to the sequence of topics in 2.094, they can serve as a useful complement to the materials presented here.
+Prof. Bathe has recorded two video courses on the topics of [Linear Analysis](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/video_galleries/linear) and [Nonlinear Analysis](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/video_galleries/nonlinear), now available from MIT OpenCourseWare. While these lectures do not correspond directly to the sequence of topics in 2.094, they can serve as a useful complement to the materials presented here.
 
 You may also be interested in the course [_2.092/2.093 Finite Element Analysis of Solids and Fluids I_](/courses/2-092-finite-element-analysis-of-solids-and-fluids-i-fall-2009).

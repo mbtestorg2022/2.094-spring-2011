@@ -93,4 +93,4 @@ Steel plate with a hole ([AVI - 8 MB](/ans7870/2/2.094/s08/demo4/platehole_steel
 Video Lectures
 --------------
 
-[_Finite Element Procedures for Solids and Structures_](/resources/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010) presents two video courses by Prof. Bathe, recommended for further study on the topics of linear and nonlinear finite element analysis.
+[_Finite Element Procedures for Solids and Structures_](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010) presents two video courses by Prof. Bathe, recommended for further study on the topics of linear and nonlinear finite element analysis.
